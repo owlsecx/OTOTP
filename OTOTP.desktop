@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=OTOTP
+Comment=TOTP/HOTP 2FA code generator & validator
+Exec=OTOTP
+Icon=/usr/share/icons/Owl.png
+Terminal=true
+Categories=OPass;
+Keywords=OTOTP;owlsec;security;totp;hotp;2fa;otp;
